@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "title": "Louis Philippe Checked Shirt",
+      "title": "Checked Shirt",
       "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/22672454/2023/5/17/a968ce11-5ac5-4e96-b88b-ed9386445d6b1684295533225-Louis-Philippe-Men-Shirts-6471684295532775-1.jpg",
       "category": "Mens-Clothing",
       "quantity":1,
@@ -33,7 +33,7 @@
       "rating": 4.5
     },{
       "id": 3,
-      "title": "Elegant Cotton Kurti for Women – Daily Wear Style",
+      "title": "Cotton Kurti",
       "image": "https://pictures.kartmax.in/cover/live/600x800/quality=6/sites/9s145MyZrWdIAwpU0JYS/product-images/navy_dola_silk_digital_printed_kurti_1713430963k_959_1.jpg",
       "category": "Womens-Clothing",
       "quantity":1,
@@ -49,7 +49,7 @@
     },
     {
       "id": 4,
-      "title": "Trendy Printed Kurti for Office & Casual Use",
+      "title": "Printed Kurti",
       "image": "https://assets.ajio.com/medias/sys_master/root/20241010/JKwz/67072bc9260f9c41e868d5fd/-473Wx593H-700561368-black-MODEL.jpg",
       "category": "Womens-Clothing",
       "quantity":1,
@@ -64,7 +64,7 @@
       "rating": 4.3
     },{
       "id": 5,
-      "title": "Traditional Red Lehenga Choli for Girls",
+      "title": "Lehenga Choli",
       "image": "https://www.bhamadesigns.com/cdn/shop/files/TLHC099_1.jpg?v=1740988637",
       "category": "Kids-Wear",
       "quantity":1,
@@ -79,7 +79,7 @@
     },
     {
       "id": 6,
-      "title": "Green Ethnic Gown for Girls – Party Wear",
+      "title": "Gown for Girls",
       "image": "https://lagorii.com/cdn/shop/files/green-ethnic-gown-for-girls-lagorii-kids-2.jpg?v=1703715317",
       "category": "Kids-Wear",
       "quantity":1,
@@ -93,7 +93,7 @@
       "rating": 4.5
     },{
       "id": 7,
-      "title": "Black Mesh Sports Shoes",
+      "title": "Sports Shoes",
       "image": "https://shopify-app-group-product.s3.amazonaws.com/1715079127126-8.jpg",
       "quantity":1,
       "sizes": [
@@ -109,7 +109,7 @@
     },
     {
       "id": 8,
-      "title": "White Lace-Up Sneakers",
+      "title": "Lace-Up Sneakers",
       "description": "Trendy white sneakers with cushioned insole and durable sole for all-day comfort and style.",
       "price": 1499,
       "quantity":1,
@@ -124,7 +124,7 @@
       "rating": 4.5
     },{
       "id": 9,
-      "title": "Zipper Tote Patterned Slip-ons",
+      "title": "Patterned Slip-ons",
       "description": "Trendy handcrafted slip-ons with ethnic patterns, perfect for casual outings and everyday comfort.",
       "price": 899,
       "quantity":1,
@@ -139,7 +139,7 @@
     },
     {
       "id": 10,
-      "title": "Classic Brown Strap Sandals",
+      "title": "Strap Sandals",
       "description": "Elegant brown sandals featuring adjustable straps and cushioned footbed for extended comfort.",
       "price": 749,
       "quantity":1,
@@ -154,7 +154,7 @@
       "rating": 4.2
     },{
       "id": 11,
-      "title": "Samsung Galaxy A15 5G - Light Blue",
+      "title": "Samsung Galaxy A15",
       "description": "Samsung Galaxy A15 with stunning light blue finish, 5G connectivity, vibrant display, and powerful performance.",
       "price": 15499,
       "quantity":1,
@@ -171,7 +171,7 @@
     },
     {
       "id": 12,
-      "title": "Samsung Galaxy M14 5G - Navy Blue",
+      "title": "Samsung Galaxy M14",
       "description": "Galaxy M14 5G offers efficient multitasking, powerful battery life, and sharp camera in a stylish navy blue.",
       "price": 13999,
       "storage": [
@@ -186,7 +186,7 @@
       "rating": 4.5
     },{
       "id": 13,
-      "title": "Gold-Plated Maroon Beaded Chain",
+      "title": "Gold-Plated Chain",
       "description": "Elegant gold-plated chain with maroon beads, perfect for traditional outfits and festive occasions.",
       "price": 699,
       "quantity":1,
@@ -195,7 +195,7 @@
     },
     {
       "id": 14,
-      "title": "Simple Gold Plated Traditional Necklace",
+      "title": "Traditional Necklace",
       "description": "A minimal yet classic gold-plated necklace, ideal for daily wear and casual traditional styling.",
       "price": 549,
       "quantity":1,
@@ -204,7 +204,7 @@
     },
     {
       "id": 15,
-      "title": "Tribal Antique Oxidized Necklace",
+      "title": "Oxidized Necklace",
       "description": "Antique-style oxidized necklace featuring tribal elements, best suited for Indo-western and boho looks.",
       "price": 499,
       "quantity":1,
@@ -212,7 +212,7 @@
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnCGcc2mIvNT5-Xfo_56zTw9I6U_EvX0r7Q&s"
     },{
       "id": 16,
-      "title": "Lenovo IdeaPad Slim 3",
+      "title": "Lenovo IdeaPad",
       "description": "15.6-inch FHD laptop with Intel Core i5 processor, 8GB RAM, and 512GB SSD – ideal for everyday computing.",
       "price": 42999,
       "quantity":1,
@@ -221,7 +221,7 @@
     },
     {
       "id": 17,
-      "title": "HP Pavilion x360 Convertible",
+      "title": "HP Pavilion",
       "description": "Touchscreen 2-in-1 laptop with sleek design and powerful performance, perfect for productivity on the go.",
       "price": 59999,
       "quantity":1,
@@ -230,7 +230,7 @@
     },
     {
       "id": 18,
-      "title": "Basic Entry-Level Laptop",
+      "title": "Basic Laptop",
       "description": "Simple and budget-friendly laptop designed for basic browsing and educational needs.",
       "price": 21999,
       "quantity":1,
